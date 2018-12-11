@@ -1,2 +1,2 @@
-# libButton - Button library for Arduino
+# libButton for Arduino
 Esimerkki kirjaston rakentamisesta
